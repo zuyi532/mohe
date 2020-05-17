@@ -10,10 +10,9 @@
     @date 2015/03/13 21:27:45
 EOF
 
-MYSQL_cq01='mysql -hcq01-ba-data01.cq01 -P3307 -uroot -pbai_du@1xia'
-MYSQL_3309='mysql -hcq01-ba-data01.cq01 -P3309 -uroot -pba_dm123. -N'
-MYSQL='mysql -hcq01-ba-data01.cq01 -uroot -pbai_du@1xia -P3307 motaDB'
-#MYSQL='mysql -uuBeBfyi6062 -pPStC0tohpS6xTsEAN -h10.91.160.114 -P6062 motaDB'
+MYSQL_cq01='mysql -hcq01-ba-data01.cq01 -P3307 -uroot -pxxx'
+MYSQL_3309='mysql -hcq01-ba-data01.cq01 -P3309 -uroot -pxxx -N'
+MYSQL='mysql -hcq01-ba-data01.cq01 -uroot -pxxxx -P3307 motaDB'
 
 MOTA_DB='motaDB'
 MY_DB='ytj'
